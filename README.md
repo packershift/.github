@@ -1,2 +1,3 @@
 # .github
-Customizing *PackerShift* organization's profile
+
+PackerShift GitHub Organization-wide files
