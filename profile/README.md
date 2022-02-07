@@ -5,11 +5,15 @@ Welcome to PackerShift.IO on GitHub</h3>
   <a href="https://twitter.com/intent/follow?screen_name=PackerShiftIO&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/PackerShiftIO?label=%40PackerShiftIO&style=social"></a> 
 </p>
 
-![PackerShift Collaboration Image](profile/profile-cover-image.png)
+![PackerShift Collaboration Image](https://raw.githubusercontent.com/packershift/.github/main/profile/profile-cover-image.png)
 
 # Welcome!
 
 Collaboration, community and curiosity - all essential to a vibrant open source ethos and part of PackerShift’s culture. You’ll find us throughout the open source community, contributing to automating open source projects. But we’re also hard at work solving technical challenges with innovative approaches and releasing those ideas as new open source projects. We’re proud of the creativity and contributions of PackerShift contributor's - from small but mighty open source projects to large, headline-grabbing community projects.
+
+# Participating in the community
+
+🫂 We aim to create a welcoming and inclusive community. Please note that PackerShift open source projects are governed by our [code of conduct](https://github.com/packershift/.github/blob/main/CODE_OF_CONDUCT.md).
 
 # Get Started
 Join our open source community: explore, experiment, ask questions, and contribute. Follow us [on Twitter](https://twitter.com/PackerShiftIO) and check in on the latest news and project updates [at our blog](https://blogs.packershift.io/opensource/). 
