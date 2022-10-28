@@ -2,10 +2,9 @@
 Welcome to PackerShift.IO on GitHub</h3> 
 <p align="center">
   <img src="https://gpvc.arturio.dev/packershift" alt="profile views"> 
+  <img src="https://img.shields.io/badge/-help@packershift.io-c14438?style=flat&logo=Gmail&logoColor=white")>
   <a href="https://twitter.com/intent/follow?screen_name=PackerShiftIO&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/PackerShiftIO?label=%40PackerShiftIO&style=social"></a> 
 </p>
-
-![PackerShift Collaboration Image](https://raw.githubusercontent.com/packershift/.github/main/profile/profile-cover-image.png)
 
 # Welcome!
 
