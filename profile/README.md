@@ -19,7 +19,7 @@ We are stacked-up expertise in a range of cloud automation and container orchest
  :white_check_mark: Kubernetes Consulting & Support - Build, Run, and Manage Apps in the Cloud with Kubernetes <br>
  :white_check_mark: CI/CD Pipeline Implementation in Kubernetes <br>
  :white_check_mark: Terraform Professional Support - Manage Hundreds of Cloud Services with Terraform <br>
- :white_check_mark: Infrastructure as Code Enablement -IaC automates app provisioning to efficiently manage hundreds of cloud services <br>
+ :white_check_mark: Infrastructure as Code Enablement - IaC automates app provisioning to efficiently manage hundreds of cloud services <br>
  
 # Participating in the community
 
