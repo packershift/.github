@@ -21,11 +21,11 @@ We are stacked-up expertise in a range of cloud automation and container orchest
  :white_check_mark: Terraform Professional Support - Manage Hundreds of Cloud Services with Terraform <br>
  :white_check_mark: Infrastructure as Code Enablement - IaC automates app provisioning to efficiently manage hundreds of cloud services <br>
  
-# Participating in the community
+# 🫂 Participating in the community
 
-🫂 We aim to create a welcoming and inclusive community. Please note that PackerShift open source projects are governed by our [code of conduct](https://github.com/packershift/.github/blob/main/CODE_OF_CONDUCT.md).
+ We aim to create a welcoming and inclusive community. Please note that PackerShift open source projects are governed by our [code of conduct](https://github.com/packershift/.github/blob/main/CODE_OF_CONDUCT.md).
 
-# Get Started
+# :rocket: Get Started
 Join our open source community: explore, experiment, ask questions, and contribute. Follow us [on Twitter](https://twitter.com/PackerShiftIO) and check in on the latest news and project updates [at our blog](https://blogs.packershift.io/opensource/). 
 
 <details>
