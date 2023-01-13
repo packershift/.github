@@ -4,7 +4,7 @@ Welcome to PackerShift.IO on GitHub</h3>
   <img src="https://gpvc.arturio.dev/packershift" alt="profile views"> 
   <img src="https://img.shields.io/badge/-help@packershift.io-c14438?style=flat&logo=Gmail&logoColor=white")>
   <a href="https://twitter.com/intent/follow?screen_name=PackerShiftIO&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/PackerShiftIO?label=%40PackerShiftIO&style=social"></a>
-  <a href="https://discord.gg/qfGryVDjVR"><img src="https://img.shields.io/badge/Discord-PackerShift-5865F2?style=flat&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/guK7UMyKMD"><img src="https://img.shields.io/badge/Discord-PackerShift-5865F2?style=flat&logo=discord&logoColor=white"></a>
 </p>
 
 # Welcome! 👋
