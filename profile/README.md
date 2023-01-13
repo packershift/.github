@@ -1,5 +1,5 @@
-<h3 align="center">
-Welcome to PackerShift.IO on GitHub</h3> 
+<h1 align="center">
+Welcome to PackerShift.IO on GitHub</h1> 
 <p align="center">
   <img src="https://gpvc.arturio.dev/packershift" alt="profile views"> 
   <img src="https://img.shields.io/badge/-help@packershift.io-c14438?style=flat&logo=Gmail&logoColor=white")>
@@ -7,11 +7,11 @@ Welcome to PackerShift.IO on GitHub</h3>
   <a href="https://discord.gg/guK7UMyKMD"><img src="https://img.shields.io/badge/Discord-PackerShift-5865F2?style=flat&logo=discord&logoColor=white"></a>
 </p>
 
-# Welcome! 👋
+## Welcome! 👋
 
 Collaboration, community and curiosity - all essential to a vibrant open source ethos and part of PackerShift’s culture. You’ll find us throughout the open source community, contributing to automating open source projects. But we’re also hard at work solving technical challenges with innovative approaches and releasing those ideas as new open source projects. We’re proud of the creativity and contributions of PackerShift contributor's - from small but mighty open source projects to large, headline-grabbing community projects.
 
-# :loudspeaker: Services Offered
+## :loudspeaker: Services Offered
 
 We are stacked-up expertise in a range of cloud automation and container orchestration technologies to support organizations at any stage of their cloud transformation journey.
 
@@ -22,11 +22,11 @@ We are stacked-up expertise in a range of cloud automation and container orchest
  :white_check_mark: Terraform Professional Support - Manage Hundreds of Cloud Services with Terraform <br>
  :white_check_mark: Infrastructure as Code Enablement - IaC automates app provisioning to efficiently manage hundreds of cloud services <br>
  
-# 🫂 Participating in the community
+## 🫂 Participating in the community
 
  We aim to create a welcoming and inclusive community. Please note that PackerShift open source projects are governed by our [code of conduct](https://github.com/packershift/.github/blob/main/CODE_OF_CONDUCT.md).
 
-# :rocket: Get Started
+## :rocket: Get Started
 Join our open source community: explore, experiment, ask questions, and contribute. Follow us [on Twitter](https://twitter.com/PackerShiftIO) and check in on the latest news and project updates [at our blog](https://blogs.packershift.io/opensource/). 
 
 <!--
